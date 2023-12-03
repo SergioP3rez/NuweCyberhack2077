@@ -1,0 +1,501 @@
+Date,Contractor,Currency,Amount,Description
+2077/09/10,Biotechnica,Eurodollars,-7782.93,Hacker Services Payment
+2076/09/19,Trauma Team,Eurodollars,-8275.45,Biotech Investment
+2077/07/05,Arasaka,CryptCreds,-8814.89,Information Sale
+2077/10/16,Arasaka,CryptCreds,-6806.83,Netrunner Contract
+2076/10/16,Biotechnica,CryptCreds,8652.89,Data Transaction
+2075/12/25,The Mox,CryptCreds,5730.52,Cyberware Maintenance
+2076/06/13,Voodoo Boys,CryptCreds,-8675.18,Information Sale
+2076/12/26,Biotechnica,CryptCreds,3145.12,Cyber Services Payment
+2076/12/06,Biotechnica,Eurodollars,978.6,Black Market Deal
+2076/10/04,Trauma Team,CryptCreds,-115.65,AI Software Upgrade
+2077/11/07,Voodoo Boys,Eurodollars,9387.55,Corporate Espionage Fee
+2077/07/25,The Mox,Eurodollars,8602.37,EDDIES Deposit
+2077/08/30,Maelstrom,Eurodollars,5124.22,Underground Tech Trade
+2076/07/17,Maelstrom,CryptCreds,8161.23,Credits Load
+2076/11/29,Night Corp,CryptCreds,2333.48,Black Market Deal
+2076/08/29,Trauma Team,Eurodollars,-8369.54,Advanced Tech Purchase
+2077/02/20,Maelstrom,Eurodollars,-8678.38,EDDIES Deposit
+2077/10/17,Trauma Team,Eurodollars,-4290.0,Add Mission Target
+2077/10/30,Tyger Claws,Eurodollars,-9853.56,AI Software Upgrade
+2076/05/12,Militech,CryptCreds,3510.63,Biotech Investment
+2076/12/21,The Mox,CryptCreds,-2869.18,Underground Tech Trade
+2076/03/12,Militech,Eurodollars,9329.41,Cyber Services Payment
+2076/06/30,Voodoo Boys,Eurodollars,-7906.47,Hacker Services Payment
+2076/03/12,Trauma Team,CryptCreds,-1070.25,Netrunner Contract
+2077/07/04,Militech,CryptCreds,8069.0,Advanced Tech Purchase
+2076/02/05,Kang Tao,CryptCreds,-8969.44,Hacker Services Payment
+2077/03/19,Tyger Claws,Eurodollars,3379.43,Information Sale
+2077/08/06,Biotechnica,Eurodollars,-3364.29,Corporate Espionage Fee
+2076/06/06,Voodoo Boys,Eurodollars,-8427.81,Cyber Services Payment
+2077/10/31,The Mox,Eurodollars,-2927.2,Hacker Services Payment
+2077/01/11,Biotechnica,CryptCreds,-9768.9,EDDIES Deposit
+2077/05/25,Kang Tao,CryptCreds,-635.42,Add Mission Target
+2077/08/15,Kang Tao,CryptCreds,-9056.68,Add Mission Target
+2077/03/06,Arasaka,CryptCreds,-9670.25,Corporate Espionage Fee
+2077/10/25,Voodoo Boys,Eurodollars,4663.1,Black Market Deal
+2076/03/18,Kang Tao,CryptCreds,-8270.9,Corporate Espionage Fee
+2076/07/22,The Mox,Eurodollars,6939.03,Biotech Investment
+2076/02/08,Militech,Eurodollars,-5363.73,Netrunner Contract
+2077/06/13,Biotechnica,CryptCreds,2130.22,Cyber Services Payment
+2076/01/20,Tyger Claws,Eurodollars,4238.78,EDDIES Deposit
+2077/10/23,Tyger Claws,Eurodollars,-86.68,Cyberware Maintenance
+2077/09/15,Maelstrom,Eurodollars,-1817.48,Cyberware Maintenance
+2077/05/09,Trauma Team,CryptCreds,2447.32,Data Transaction
+2076/08/07,Voodoo Boys,CryptCreds,-6674.03,Hacker Services Payment
+2076/11/25,Night Corp,Eurodollars,-6241.08,Black Market Deal
+2077/02/01,Trauma Team,CryptCreds,-2356.87,AI Software Upgrade
+2076/02/10,Militech,Eurodollars,2764.72,Underground Tech Trade
+2076/08/25,Tyger Claws,Eurodollars,-3920.12,Data Transaction
+2076/10/27,Tyger Claws,CryptCreds,2897.43,EDDIES Deposit
+2076/07/27,Trauma Team,CryptCreds,5130.27,Cyberware Maintenance
+2077/03/13,Voodoo Boys,CryptCreds,-3306.66,Credits Load
+2077/04/05,The Mox,Eurodollars,4256.1,Cyberware Maintenance
+2077/11/03,Tyger Claws,CryptCreds,6544.41,Advanced Tech Purchase
+2076/05/01,Night Corp,Eurodollars,507.01,Biotech Investment
+2077/01/27,Trauma Team,Eurodollars,5796.93,AI Software Upgrade
+2076/11/29,The Mox,CryptCreds,2229.89,Black Market Deal
+2076/11/02,Arasaka,CryptCreds,-5098.88,Corporate Espionage Fee
+2077/09/27,Biotechnica,Eurodollars,1869.32,Add Mission Target
+2077/01/02,The Mox,CryptCreds,6621.94,Black Market Deal
+2076/06/14,Biotechnica,Eurodollars,7208.54,Data Transaction
+2076/01/11,Arasaka,CryptCreds,-1112.09,Add Mission Target
+2077/08/11,Militech,Eurodollars,989.83,Biotech Investment
+2077/11/07,Kang Tao,Eurodollars,-6914.17,Netrunner Contract
+2077/01/24,The Mox,CryptCreds,6587.79,Credits Load
+2077/11/05,Voodoo Boys,Eurodollars,-4819.35,Black Market Deal
+2075/12/04,Kang Tao,Eurodollars,4964.54,Add Mission Target
+2076/02/04,Voodoo Boys,CryptCreds,-476.13,Biotech Investment
+2077/06/06,Militech,CryptCreds,4623.42,Black Market Deal
+2077/09/07,The Mox,Eurodollars,8420.49,Cyberware Maintenance
+2076/09/29,Maelstrom,Eurodollars,5935.84,AI Software Upgrade
+2077/05/29,Trauma Team,CryptCreds,823.5,Underground Tech Trade
+2077/08/26,Tyger Claws,CryptCreds,237.08,Netrunner Contract
+2077/07/26,Night Corp,Eurodollars,-9748.99,Netrunner Contract
+2077/04/26,Maelstrom,CryptCreds,-9362.8,Add Mission Target
+2077/03/24,Night Corp,Eurodollars,8567.34,Underground Tech Trade
+2075/11/24,Arasaka,CryptCreds,-6669.84,Advanced Tech Purchase
+2077/03/14,Kang Tao,Eurodollars,-973.34,Cyber Services Payment
+2076/12/12,The Mox,Eurodollars,-8238.94,Data Transaction
+2077/08/29,Trauma Team,Eurodollars,-628.54,Corporate Espionage Fee
+2077/09/28,Arasaka,Eurodollars,7963.01,Hacker Services Payment
+2076/08/09,Tyger Claws,CryptCreds,5645.15,EDDIES Deposit
+2076/06/01,Tyger Claws,Eurodollars,-6034.76,Data Transaction
+2077/06/14,Trauma Team,Eurodollars,6466.36,Netrunner Contract
+2076/08/03,Voodoo Boys,CryptCreds,-7812.43,Credits Load
+2077/05/24,The Mox,Eurodollars,-893.62,Black Market Deal
+2077/10/01,Tyger Claws,Eurodollars,-7747.25,Information Sale
+2076/01/11,Kang Tao,Eurodollars,4059.79,Biotech Investment
+2076/04/21,Voodoo Boys,CryptCreds,-9728.03,EDDIES Deposit
+2077/11/06,Militech,Eurodollars,4522.47,Cyber Services Payment
+2077/02/07,The Mox,CryptCreds,4605.98,Data Transaction
+2076/05/15,Militech,Eurodollars,9646.5,Netrunner Contract
+2076/05/28,Militech,CryptCreds,-9307.14,Hacker Services Payment
+2077/08/09,Kang Tao,CryptCreds,1467.87,Add Mission Target
+2076/03/14,Tyger Claws,CryptCreds,3486.1,Black Market Deal
+2077/08/09,Voodoo Boys,Eurodollars,611.46,AI Software Upgrade
+2077/01/19,Trauma Team,Eurodollars,9438.98,Credits Load
+2076/11/06,Maelstrom,Eurodollars,2493.83,Information Sale
+2076/02/02,Arasaka,CryptCreds,4602.07,Netrunner Contract
+2076/01/25,Arasaka,CryptCreds,8176.48,Advanced Tech Purchase
+2076/07/30,Biotechnica,CryptCreds,5751.71,Hacker Services Payment
+2077/10/04,Militech,CryptCreds,6138.5,Cyberware Maintenance
+2076/12/23,Kang Tao,CryptCreds,-5050.16,EDDIES Deposit
+2077/11/18,Voodoo Boys,Eurodollars,8191.19,Advanced Tech Purchase
+2076/12/09,Arasaka,Eurodollars,7273.91,Advanced Tech Purchase
+2076/02/16,Trauma Team,Eurodollars,265.55,Hacker Services Payment
+2076/07/16,Night Corp,Eurodollars,1762.81,Netrunner Contract
+2077/01/26,Maelstrom,CryptCreds,5728.26,Underground Tech Trade
+2076/07/08,Night Corp,Eurodollars,-5222.47,Netrunner Contract
+2077/05/26,Kang Tao,CryptCreds,-9352.3,Information Sale
+2076/02/28,Voodoo Boys,Eurodollars,-1653.27,EDDIES Deposit
+2077/01/23,Maelstrom,CryptCreds,4513.22,Add Mission Target
+2076/08/09,Militech,CryptCreds,1826.86,Advanced Tech Purchase
+2077/08/18,Tyger Claws,CryptCreds,-1121.65,Credits Load
+2077/11/10,Biotechnica,CryptCreds,8977.76,Data Transaction
+2077/01/17,Arasaka,CryptCreds,6906.08,Underground Tech Trade
+2076/04/30,Arasaka,CryptCreds,-3329.35,Add Mission Target
+2077/08/06,Biotechnica,CryptCreds,3053.19,Netrunner Contract
+2077/03/07,The Mox,CryptCreds,-9264.63,AI Software Upgrade
+2077/01/23,Tyger Claws,Eurodollars,-7843.18,Cyberware Maintenance
+2077/02/23,Kang Tao,Eurodollars,-5459.94,EDDIES Deposit
+2076/07/05,The Mox,CryptCreds,-5453.15,Data Transaction
+2076/11/04,Militech,Eurodollars,-1040.67,Information Sale
+2076/02/03,Arasaka,Eurodollars,-974.24,Advanced Tech Purchase
+2077/03/02,Kang Tao,Eurodollars,5643.91,Cyberware Maintenance
+2077/08/05,Maelstrom,CryptCreds,1400.71,Underground Tech Trade
+2076/09/18,Tyger Claws,CryptCreds,837.99,Credits Load
+2076/07/28,Voodoo Boys,CryptCreds,-6337.62,Advanced Tech Purchase
+2077/02/14,Night Corp,CryptCreds,7191.18,Credits Load
+2076/05/31,Biotechnica,CryptCreds,-1918.45,Add Mission Target
+2076/07/07,Night Corp,Eurodollars,-8134.52,Information Sale
+2076/04/15,Night Corp,CryptCreds,3854.15,Add Mission Target
+2076/04/20,The Mox,Eurodollars,-9571.74,Information Sale
+2077/08/24,Tyger Claws,Eurodollars,149.1,Biotech Investment
+2076/04/18,Trauma Team,CryptCreds,-5547.8,Data Transaction
+2075/12/19,The Mox,CryptCreds,7568.82,Credits Load
+2077/03/14,Trauma Team,Eurodollars,-5850.19,Information Sale
+2077/04/18,Trauma Team,Eurodollars,438.73,Information Sale
+2076/06/13,Militech,CryptCreds,-410.44,Biotech Investment
+2076/11/29,Night Corp,Eurodollars,-4417.96,Cyberware Maintenance
+2076/01/16,Night Corp,CryptCreds,-8087.58,AI Software Upgrade
+2076/02/01,Tyger Claws,CryptCreds,2573.86,Netrunner Contract
+2077/05/05,Biotechnica,Eurodollars,443.08,Hacker Services Payment
+2077/07/05,Night Corp,Eurodollars,5171.47,Corporate Espionage Fee
+2076/03/05,Biotechnica,CryptCreds,8601.89,Credits Load
+2077/10/06,The Mox,Eurodollars,122.73,Advanced Tech Purchase
+2076/03/20,Maelstrom,CryptCreds,8037.35,Biotech Investment
+2077/11/11,Night Corp,CryptCreds,-5330.04,Netrunner Contract
+2075/12/24,Night Corp,CryptCreds,9229.96,Corporate Espionage Fee
+2077/09/09,Tyger Claws,Eurodollars,4401.61,Corporate Espionage Fee
+2076/01/25,Night Corp,Eurodollars,-8064.03,Add Mission Target
+2077/10/22,Arasaka,Eurodollars,8088.93,Advanced Tech Purchase
+2077/05/21,Kang Tao,CryptCreds,3561.27,EDDIES Deposit
+2077/11/10,The Mox,CryptCreds,3179.33,Add Mission Target
+2077/08/30,Militech,Eurodollars,4188.27,Credits Load
+2077/01/17,Kang Tao,CryptCreds,-3111.74,Advanced Tech Purchase
+2077/05/08,The Mox,CryptCreds,1363.77,Add Mission Target
+2076/09/23,Maelstrom,CryptCreds,187.72,Advanced Tech Purchase
+2077/09/05,Arasaka,Eurodollars,-5416.89,AI Software Upgrade
+2077/05/25,Biotechnica,CryptCreds,9200.98,EDDIES Deposit
+2077/01/05,Maelstrom,CryptCreds,513.73,Credits Load
+2076/06/26,Trauma Team,Eurodollars,-9423.74,Biotech Investment
+2077/01/03,Arasaka,CryptCreds,8279.22,EDDIES Deposit
+2077/08/16,Arasaka,CryptCreds,1651.89,Underground Tech Trade
+2076/05/25,Tyger Claws,CryptCreds,-8637.42,Underground Tech Trade
+2077/09/14,Arasaka,CryptCreds,3590.63,Corporate Espionage Fee
+2076/05/10,Militech,Eurodollars,6896.4,Black Market Deal
+2077/10/20,Voodoo Boys,CryptCreds,2969.76,Cyberware Maintenance
+2077/05/05,Maelstrom,CryptCreds,2195.14,AI Software Upgrade
+2077/02/25,Trauma Team,Eurodollars,-4881.23,Black Market Deal
+2077/08/27,Militech,Eurodollars,9889.05,Black Market Deal
+2076/10/15,Arasaka,CryptCreds,5776.65,Hacker Services Payment
+2077/02/17,Maelstrom,Eurodollars,-8231.34,Cyberware Maintenance
+2076/06/25,Night Corp,Eurodollars,4520.64,Biotech Investment
+2076/11/08,Maelstrom,Eurodollars,-5058.7,Cyberware Maintenance
+2076/12/11,Voodoo Boys,Eurodollars,5601.59,Hacker Services Payment
+2077/04/20,Trauma Team,Eurodollars,-1300.26,Netrunner Contract
+2077/04/06,The Mox,CryptCreds,8656.45,Advanced Tech Purchase
+2077/05/21,Kang Tao,Eurodollars,-1402.29,EDDIES Deposit
+2077/11/06,Kang Tao,Eurodollars,-9880.85,AI Software Upgrade
+2077/08/02,Militech,Eurodollars,3356.94,Netrunner Contract
+2076/08/28,Voodoo Boys,Eurodollars,9206.69,Information Sale
+2076/01/26,Kang Tao,Eurodollars,-384.78,AI Software Upgrade
+2076/08/02,Trauma Team,CryptCreds,-2902.55,Black Market Deal
+2077/03/14,Arasaka,CryptCreds,7042.43,Cyber Services Payment
+2076/02/21,Voodoo Boys,Eurodollars,-3586.49,Add Mission Target
+2076/12/06,The Mox,Eurodollars,13.15,Credits Load
+2077/02/22,Trauma Team,Eurodollars,6529.97,Credits Load
+2077/03/28,Militech,Eurodollars,504.3,EDDIES Deposit
+2076/08/11,Arasaka,Eurodollars,9331.93,Add Mission Target
+2077/09/11,Maelstrom,Eurodollars,-1463.49,AI Software Upgrade
+2076/04/20,Tyger Claws,CryptCreds,-2576.6,Underground Tech Trade
+2076/05/31,Trauma Team,CryptCreds,-5437.93,Data Transaction
+2075/12/06,Biotechnica,Eurodollars,878.1,Hacker Services Payment
+2077/06/15,Night Corp,Eurodollars,-9582.9,EDDIES Deposit
+2076/06/22,Trauma Team,Eurodollars,7281.21,Corporate Espionage Fee
+2076/02/22,Voodoo Boys,CryptCreds,7038.63,Data Transaction
+2077/05/25,Trauma Team,Eurodollars,2522.63,Netrunner Contract
+2076/05/14,Militech,CryptCreds,5269.13,Data Transaction
+2076/09/08,Tyger Claws,CryptCreds,-926.35,Information Sale
+2077/08/03,Militech,Eurodollars,-5545.88,Credits Load
+2076/04/05,Trauma Team,Eurodollars,2070.68,Netrunner Contract
+2076/08/09,Trauma Team,Eurodollars,870.28,Corporate Espionage Fee
+2076/10/20,Maelstrom,Eurodollars,-5345.27,Add Mission Target
+2077/08/19,Biotechnica,CryptCreds,-6562.2,AI Software Upgrade
+2076/01/11,Night Corp,CryptCreds,-74.4,Add Mission Target
+2076/02/10,Maelstrom,CryptCreds,-5004.11,Data Transaction
+2077/07/25,Kang Tao,Eurodollars,9307.24,Underground Tech Trade
+2076/03/17,Maelstrom,CryptCreds,8778.09,Netrunner Contract
+2077/09/19,Kang Tao,Eurodollars,-5878.76,Cyber Services Payment
+2077/05/19,Militech,Eurodollars,3037.96,Credits Load
+2076/05/12,Maelstrom,CryptCreds,9072.07,Data Transaction
+2075/12/29,Maelstrom,CryptCreds,3773.88,Add Mission Target
+2077/08/20,Militech,Eurodollars,-9797.01,Hacker Services Payment
+2077/02/12,The Mox,Eurodollars,-5530.76,Information Sale
+2077/03/31,Biotechnica,Eurodollars,5114.27,Credits Load
+2077/10/31,Biotechnica,Eurodollars,-3411.33,AI Software Upgrade
+2077/11/21,Trauma Team,CryptCreds,7946.92,Corporate Espionage Fee
+2077/01/12,Militech,Eurodollars,7675.65,Cyber Services Payment
+2077/03/06,Voodoo Boys,CryptCreds,8907.14,Data Transaction
+2077/05/06,Biotechnica,CryptCreds,5892.72,Corporate Espionage Fee
+2076/01/20,Biotechnica,Eurodollars,3202.21,EDDIES Deposit
+2075/12/14,Biotechnica,CryptCreds,7661.17,Add Mission Target
+2076/02/28,Trauma Team,Eurodollars,819.94,Hacker Services Payment
+2077/04/01,The Mox,CryptCreds,-5278.75,Data Transaction
+2076/04/19,Biotechnica,CryptCreds,-3688.36,Hacker Services Payment
+2077/03/09,Biotechnica,CryptCreds,1784.92,Add Mission Target
+2077/08/30,Voodoo Boys,Eurodollars,-3547.05,Information Sale
+2077/02/14,Voodoo Boys,CryptCreds,-3202.48,Credits Load
+2076/02/24,Tyger Claws,CryptCreds,4656.04,Cyber Services Payment
+2076/09/23,Kang Tao,CryptCreds,8855.02,Cyberware Maintenance
+2076/02/03,Biotechnica,CryptCreds,6842.44,EDDIES Deposit
+2076/09/07,The Mox,CryptCreds,-9569.99,Cyber Services Payment
+2077/09/02,Voodoo Boys,Eurodollars,6299.78,Advanced Tech Purchase
+2076/02/22,Militech,Eurodollars,-1132.86,Cyberware Maintenance
+2075/12/22,Arasaka,Eurodollars,3125.81,Black Market Deal
+2077/03/09,Arasaka,Eurodollars,1117.79,Underground Tech Trade
+2075/12/10,Arasaka,Eurodollars,-1263.41,Cyberware Maintenance
+2076/04/24,Biotechnica,Eurodollars,591.04,Data Transaction
+2076/04/16,Militech,Eurodollars,2183.4,Underground Tech Trade
+2077/06/04,Tyger Claws,CryptCreds,5144.14,Data Transaction
+2076/02/28,Biotechnica,Eurodollars,9262.01,Corporate Espionage Fee
+2076/12/01,Night Corp,Eurodollars,6597.8,Information Sale
+2076/05/06,Trauma Team,CryptCreds,9668.69,Add Mission Target
+2077/06/11,Maelstrom,Eurodollars,1478.07,AI Software Upgrade
+2077/08/07,Maelstrom,Eurodollars,6656.25,Underground Tech Trade
+2076/01/10,Militech,CryptCreds,670.63,Corporate Espionage Fee
+2077/11/21,Militech,Eurodollars,1386.06,Information Sale
+2077/05/05,Maelstrom,CryptCreds,-9067.74,Add Mission Target
+2075/12/11,The Mox,Eurodollars,-887.95,Cyber Services Payment
+2077/01/20,The Mox,Eurodollars,6364.42,Information Sale
+2076/10/20,Maelstrom,Eurodollars,9502.39,Hacker Services Payment
+2077/03/21,Arasaka,CryptCreds,-6252.97,Advanced Tech Purchase
+2076/02/10,Biotechnica,Eurodollars,8382.32,Black Market Deal
+2077/09/04,Militech,CryptCreds,-3161.23,Cyberware Maintenance
+2076/06/13,Arasaka,CryptCreds,4638.76,Hacker Services Payment
+2076/01/17,The Mox,Eurodollars,-558.12,AI Software Upgrade
+2076/05/14,Night Corp,Eurodollars,8978.9,Cyberware Maintenance
+2076/01/18,Night Corp,CryptCreds,-9691.28,Add Mission Target
+2077/04/10,Tyger Claws,CryptCreds,5966.36,Cyber Services Payment
+2076/07/15,Biotechnica,CryptCreds,6686.45,Netrunner Contract
+2076/08/23,Militech,CryptCreds,1268.94,AI Software Upgrade
+2076/10/28,The Mox,Eurodollars,-4261.5,Underground Tech Trade
+2076/04/13,Biotechnica,Eurodollars,-8464.99,Underground Tech Trade
+2076/01/10,Voodoo Boys,Eurodollars,3284.51,Underground Tech Trade
+2076/12/20,Militech,Eurodollars,1551.73,Biotech Investment
+2076/11/21,The Mox,Eurodollars,2538.11,Advanced Tech Purchase
+2075/12/24,Arasaka,Eurodollars,5434.15,Netrunner Contract
+2077/03/02,Maelstrom,Eurodollars,-9336.52,Data Transaction
+2076/02/10,Tyger Claws,CryptCreds,-4814.81,EDDIES Deposit
+2077/05/21,Trauma Team,Eurodollars,406.13,Cyberware Maintenance
+2076/09/23,Tyger Claws,CryptCreds,-1953.51,EDDIES Deposit
+2076/04/27,Kang Tao,Eurodollars,3183.93,Cyber Services Payment
+2076/06/14,Kang Tao,Eurodollars,8856.64,EDDIES Deposit
+2076/08/29,Kang Tao,Eurodollars,-9128.63,Cyberware Maintenance
+2077/10/27,Night Corp,CryptCreds,-7023.42,EDDIES Deposit
+2077/06/15,Night Corp,Eurodollars,-9988.34,Advanced Tech Purchase
+2076/11/24,Biotechnica,CryptCreds,4684.47,Black Market Deal
+2077/09/06,Trauma Team,Eurodollars,-3063.83,Biotech Investment
+2077/10/25,Militech,Eurodollars,-3885.85,Data Transaction
+2077/11/07,Biotechnica,CryptCreds,-7130.9,Hacker Services Payment
+2077/02/09,Biotechnica,Eurodollars,-3450.68,Biotech Investment
+2076/04/04,Maelstrom,Eurodollars,7862.92,Underground Tech Trade
+2077/05/19,Arasaka,CryptCreds,-3867.28,Cyberware Maintenance
+2077/04/30,Tyger Claws,CryptCreds,-2434.93,Underground Tech Trade
+2076/04/30,Trauma Team,Eurodollars,-6274.23,Credits Load
+2077/07/13,Tyger Claws,Eurodollars,33.63,Biotech Investment
+2076/01/08,The Mox,CryptCreds,6550.72,Corporate Espionage Fee
+2077/07/29,The Mox,CryptCreds,1433.79,Corporate Espionage Fee
+2077/05/03,Militech,CryptCreds,-9592.28,Add Mission Target
+2076/03/26,Voodoo Boys,Eurodollars,-9684.32,Add Mission Target
+2077/09/11,Maelstrom,Eurodollars,-6120.36,Hacker Services Payment
+2076/03/29,Tyger Claws,Eurodollars,-1545.75,Information Sale
+2076/08/16,Tyger Claws,Eurodollars,5507.74,Netrunner Contract
+2077/01/09,Kang Tao,Eurodollars,337.64,Cyberware Maintenance
+2076/06/06,Militech,Eurodollars,3287.34,Cyber Services Payment
+2076/02/23,Kang Tao,CryptCreds,-9730.15,Hacker Services Payment
+2077/03/02,Tyger Claws,CryptCreds,5150.9,Cyberware Maintenance
+2077/11/09,Kang Tao,Eurodollars,3175.03,Underground Tech Trade
+2076/11/02,Trauma Team,CryptCreds,-8934.34,Corporate Espionage Fee
+2077/04/24,Arasaka,CryptCreds,5516.01,Hacker Services Payment
+2076/04/08,The Mox,CryptCreds,-7757.59,Advanced Tech Purchase
+2075/12/04,Maelstrom,Eurodollars,-6347.51,Underground Tech Trade
+2076/11/25,Voodoo Boys,CryptCreds,-5643.28,AI Software Upgrade
+2077/05/07,Trauma Team,CryptCreds,8406.21,AI Software Upgrade
+2076/10/08,Voodoo Boys,CryptCreds,-7709.04,Underground Tech Trade
+2077/10/24,Biotechnica,Eurodollars,-9746.78,Underground Tech Trade
+2077/02/09,Tyger Claws,CryptCreds,-6072.59,Corporate Espionage Fee
+2077/10/04,Voodoo Boys,Eurodollars,-4878.49,Cyberware Maintenance
+2076/12/24,Militech,Eurodollars,7547.99,Add Mission Target
+2077/11/06,Trauma Team,CryptCreds,-5953.98,Add Mission Target
+2076/07/23,The Mox,CryptCreds,6351.83,Hacker Services Payment
+2077/04/12,Tyger Claws,Eurodollars,417.49,EDDIES Deposit
+2076/08/28,Kang Tao,CryptCreds,-6158.9,Advanced Tech Purchase
+2076/09/21,Biotechnica,Eurodollars,658.04,EDDIES Deposit
+2077/09/05,Night Corp,Eurodollars,-2089.32,Advanced Tech Purchase
+2077/04/18,Maelstrom,Eurodollars,-3984.98,Data Transaction
+2076/06/06,Tyger Claws,CryptCreds,-3529.07,AI Software Upgrade
+2076/03/23,Militech,Eurodollars,-6074.61,Advanced Tech Purchase
+2077/02/02,Militech,CryptCreds,-3589.19,EDDIES Deposit
+2077/05/14,Maelstrom,CryptCreds,9778.81,Information Sale
+2075/12/03,Trauma Team,Eurodollars,6315.9,Advanced Tech Purchase
+2076/11/14,Voodoo Boys,CryptCreds,285.81,Cyberware Maintenance
+2077/06/22,Trauma Team,Eurodollars,8674.43,Netrunner Contract
+2076/01/24,Night Corp,Eurodollars,8462.97,Data Transaction
+2076/08/11,Militech,CryptCreds,-4396.16,Corporate Espionage Fee
+2077/06/21,Maelstrom,CryptCreds,8996.51,Cyber Services Payment
+2075/12/29,Tyger Claws,Eurodollars,-9765.08,Add Mission Target
+2077/01/20,Arasaka,Eurodollars,-7985.65,Data Transaction
+2076/06/30,Night Corp,Eurodollars,689.65,Cyberware Maintenance
+2076/03/08,Kang Tao,CryptCreds,7228.82,Black Market Deal
+2076/05/29,Maelstrom,Eurodollars,-2325.35,Add Mission Target
+2077/07/08,Voodoo Boys,Eurodollars,6930.72,Biotech Investment
+2076/12/03,Trauma Team,Eurodollars,5225.03,Cyber Services Payment
+2076/08/24,The Mox,Eurodollars,7234.69,Hacker Services Payment
+2077/03/12,Militech,CryptCreds,-5583.66,Add Mission Target
+2076/07/05,Tyger Claws,CryptCreds,7827.6,Information Sale
+2077/05/01,Night Corp,Eurodollars,-808.51,Cyber Services Payment
+2076/08/29,The Mox,Eurodollars,9091.57,Data Transaction
+2077/02/25,Kang Tao,Eurodollars,-8894.63,Cyber Services Payment
+2077/10/17,Night Corp,Eurodollars,-2221.73,Netrunner Contract
+2077/03/31,Voodoo Boys,Eurodollars,9280.34,Black Market Deal
+2077/09/18,Militech,Eurodollars,8591.44,Netrunner Contract
+2077/03/21,Biotechnica,CryptCreds,-2142.08,Biotech Investment
+2076/03/06,Arasaka,Eurodollars,6342.88,Biotech Investment
+2077/06/02,Voodoo Boys,Eurodollars,890.8,Add Mission Target
+2076/07/23,Night Corp,Eurodollars,-5477.42,Netrunner Contract
+2076/09/21,Tyger Claws,CryptCreds,5703.23,Corporate Espionage Fee
+2077/06/28,Biotechnica,Eurodollars,-5607.37,Cyberware Maintenance
+2076/10/11,Kang Tao,Eurodollars,-7497.44,Hacker Services Payment
+2077/08/29,Voodoo Boys,Eurodollars,4082.1,Information Sale
+2077/04/13,Biotechnica,Eurodollars,2352.4,Information Sale
+2076/01/25,Trauma Team,CryptCreds,2510.42,Cyber Services Payment
+2075/11/25,Night Corp,Eurodollars,-2017.68,Netrunner Contract
+2077/02/28,Trauma Team,CryptCreds,4609.75,Cyber Services Payment
+2076/04/22,Tyger Claws,Eurodollars,3252.78,Information Sale
+2077/05/20,Maelstrom,Eurodollars,4812.16,EDDIES Deposit
+2076/08/10,Night Corp,Eurodollars,-9255.26,Advanced Tech Purchase
+2076/03/28,The Mox,Eurodollars,4817.24,Cyberware Maintenance
+2076/05/28,Trauma Team,Eurodollars,-4683.44,Underground Tech Trade
+2076/05/16,Militech,Eurodollars,4784.11,Cyberware Maintenance
+2077/04/03,Voodoo Boys,CryptCreds,-7364.58,Biotech Investment
+2076/11/07,Kang Tao,Eurodollars,2300.67,Hacker Services Payment
+2076/09/14,Voodoo Boys,CryptCreds,1842.1,Cyber Services Payment
+2077/05/29,Kang Tao,CryptCreds,-4371.45,Cyber Services Payment
+2077/10/04,Night Corp,Eurodollars,5473.75,Biotech Investment
+2077/05/01,Kang Tao,Eurodollars,-4848.25,Add Mission Target
+2077/02/08,Tyger Claws,Eurodollars,1968.52,Netrunner Contract
+2077/10/04,Voodoo Boys,CryptCreds,5506.44,Black Market Deal
+2076/10/11,Kang Tao,CryptCreds,-1467.83,EDDIES Deposit
+2075/12/18,Voodoo Boys,CryptCreds,3913.29,AI Software Upgrade
+2076/10/02,Maelstrom,CryptCreds,4809.01,Black Market Deal
+2077/10/02,Tyger Claws,CryptCreds,-1536.59,EDDIES Deposit
+2077/05/23,Kang Tao,CryptCreds,-8442.15,Underground Tech Trade
+2077/02/07,Kang Tao,Eurodollars,-6549.83,Corporate Espionage Fee
+2076/10/14,Night Corp,CryptCreds,-6206.58,Black Market Deal
+2077/07/16,Kang Tao,Eurodollars,-7149.62,Hacker Services Payment
+2077/04/22,Kang Tao,Eurodollars,-6314.62,Biotech Investment
+2077/05/28,Arasaka,Eurodollars,-5656.76,Netrunner Contract
+2075/12/30,Militech,CryptCreds,-234.14,Black Market Deal
+2076/04/01,Voodoo Boys,Eurodollars,7300.85,Hacker Services Payment
+2076/11/04,Militech,CryptCreds,4616.5,Advanced Tech Purchase
+2076/01/12,The Mox,Eurodollars,-1564.22,Hacker Services Payment
+2076/06/13,Kang Tao,CryptCreds,-8499.71,Cyber Services Payment
+2077/05/22,Voodoo Boys,Eurodollars,4010.26,Data Transaction
+2076/03/26,Arasaka,CryptCreds,9327.8,EDDIES Deposit
+2076/11/05,Arasaka,CryptCreds,-8521.51,Cyber Services Payment
+2077/01/07,Voodoo Boys,CryptCreds,-2230.29,EDDIES Deposit
+2077/10/12,Night Corp,CryptCreds,-8292.43,Black Market Deal
+2076/12/07,The Mox,Eurodollars,-3812.72,Cyber Services Payment
+2077/10/30,Kang Tao,Eurodollars,750.44,Cyberware Maintenance
+2077/02/03,Night Corp,Eurodollars,-252.44,Corporate Espionage Fee
+2077/03/08,Maelstrom,CryptCreds,-8854.48,Cyberware Maintenance
+2077/07/03,Arasaka,Eurodollars,1564.02,Underground Tech Trade
+2075/11/24,Militech,CryptCreds,6840.73,Add Mission Target
+2077/10/11,Night Corp,Eurodollars,9262.92,Cyberware Maintenance
+2075/12/24,The Mox,Eurodollars,-6168.18,Information Sale
+2076/12/13,Maelstrom,CryptCreds,-3002.24,Advanced Tech Purchase
+2076/08/04,Maelstrom,CryptCreds,-7350.47,Credits Load
+2076/07/24,Militech,Eurodollars,842.66,Hacker Services Payment
+2077/09/05,Tyger Claws,Eurodollars,-7937.58,Credits Load
+2076/11/21,Kang Tao,CryptCreds,-1150.78,Underground Tech Trade
+2076/01/01,Kang Tao,Eurodollars,2774.09,Hacker Services Payment
+2077/08/14,Arasaka,Eurodollars,622.89,Add Mission Target
+2077/08/25,Kang Tao,Eurodollars,7501.71,Netrunner Contract
+2077/10/04,Night Corp,CryptCreds,391.97,Corporate Espionage Fee
+2077/08/17,The Mox,CryptCreds,9025.46,Netrunner Contract
+2076/10/12,The Mox,Eurodollars,6225.82,Data Transaction
+2076/04/19,Night Corp,Eurodollars,8525.79,EDDIES Deposit
+2077/01/24,Biotechnica,Eurodollars,-4197.26,Data Transaction
+2077/03/30,Biotechnica,Eurodollars,6425.39,EDDIES Deposit
+2076/01/27,Tyger Claws,Eurodollars,4251.14,Corporate Espionage Fee
+2077/09/05,Voodoo Boys,CryptCreds,-8251.21,Credits Load
+2077/06/10,Tyger Claws,Eurodollars,-1662.67,EDDIES Deposit
+2076/03/05,Night Corp,CryptCreds,2126.76,Cyberware Maintenance
+2075/12/05,Maelstrom,CryptCreds,-8310.22,AI Software Upgrade
+2076/10/02,Biotechnica,CryptCreds,-9515.02,Netrunner Contract
+2077/05/05,The Mox,Eurodollars,4563.7,Add Mission Target
+2076/10/14,Voodoo Boys,CryptCreds,-9076.78,Hacker Services Payment
+2076/07/27,Militech,Eurodollars,483.4,Advanced Tech Purchase
+2075/11/26,The Mox,CryptCreds,-7992.91,Hacker Services Payment
+2076/05/08,Night Corp,CryptCreds,4163.09,Black Market Deal
+2075/12/05,Tyger Claws,CryptCreds,-1896.52,Cyberware Maintenance
+2077/06/04,Tyger Claws,CryptCreds,1114.11,AI Software Upgrade
+2077/07/03,Voodoo Boys,CryptCreds,-214.1,Data Transaction
+2075/11/25,Tyger Claws,CryptCreds,-2420.85,Credits Load
+2077/08/25,Biotechnica,CryptCreds,-1291.25,Data Transaction
+2077/05/02,Biotechnica,Eurodollars,-9565.88,Corporate Espionage Fee
+2077/01/08,Voodoo Boys,CryptCreds,2347.65,Corporate Espionage Fee
+2077/03/14,Voodoo Boys,Eurodollars,-3413.81,Underground Tech Trade
+2076/02/07,Night Corp,Eurodollars,-407.48,Black Market Deal
+2076/04/20,Militech,Eurodollars,8495.2,Cyber Services Payment
+2076/02/24,Maelstrom,Eurodollars,7474.93,Netrunner Contract
+2077/03/11,Night Corp,Eurodollars,432.75,Corporate Espionage Fee
+2077/04/12,Tyger Claws,Eurodollars,-2196.45,Data Transaction
+2076/04/27,Arasaka,CryptCreds,-265.01,Cyberware Maintenance
+2077/10/03,The Mox,Eurodollars,2568.35,Advanced Tech Purchase
+2076/07/16,Biotechnica,CryptCreds,3035.95,Netrunner Contract
+2076/06/29,Biotechnica,CryptCreds,-9068.22,EDDIES Deposit
+2077/05/12,Trauma Team,Eurodollars,9549.34,AI Software Upgrade
+2076/04/14,The Mox,CryptCreds,-816.79,Add Mission Target
+2076/02/09,Kang Tao,Eurodollars,-4755.79,Hacker Services Payment
+2076/11/28,Trauma Team,CryptCreds,-9125.76,Cyber Services Payment
+2077/09/18,Arasaka,Eurodollars,-1510.94,Cyberware Maintenance
+2077/11/10,The Mox,CryptCreds,-5642.23,Credits Load
+2076/09/28,Kang Tao,CryptCreds,2935.54,Add Mission Target
+2077/03/26,Tyger Claws,CryptCreds,1988.33,Data Transaction
+2076/01/26,Maelstrom,CryptCreds,-7003.31,Cyber Services Payment
+2075/12/10,Maelstrom,Eurodollars,5999.27,Information Sale
+2076/06/25,Voodoo Boys,Eurodollars,-3973.45,Advanced Tech Purchase
+2077/11/03,Biotechnica,CryptCreds,-7101.48,Hacker Services Payment
+2076/11/10,Night Corp,CryptCreds,2171.3,Cyber Services Payment
+2077/08/07,Militech,Eurodollars,7021.36,Biotech Investment
+2077/08/01,Biotechnica,Eurodollars,-5993.17,Biotech Investment
+2076/02/21,Tyger Claws,CryptCreds,-830.07,Advanced Tech Purchase
+2077/09/24,Maelstrom,Eurodollars,-2270.21,Data Transaction
+2076/06/11,Militech,CryptCreds,-116.63,Black Market Deal
+2076/03/07,Trauma Team,CryptCreds,-6924.36,Data Transaction
+2077/04/15,Militech,CryptCreds,-7906.92,Data Transaction
+2077/01/02,Maelstrom,Eurodollars,-3942.54,Corporate Espionage Fee
+2077/08/20,Trauma Team,CryptCreds,-2864.78,Data Transaction
+2077/04/13,Arasaka,Eurodollars,5757.0,Add Mission Target
+2077/04/08,Arasaka,CryptCreds,-9334.61,Hacker Services Payment
+2076/08/20,The Mox,CryptCreds,8460.04,Netrunner Contract
+2076/02/21,Biotechnica,Eurodollars,-2731.88,Black Market Deal
+2077/10/02,Maelstrom,Eurodollars,-6917.0,Biotech Investment
+2076/03/23,Night Corp,Eurodollars,-3463.41,Netrunner Contract
+2076/06/28,Maelstrom,Eurodollars,472.63,Black Market Deal
+2077/09/16,Maelstrom,Eurodollars,4100.77,Underground Tech Trade
+2075/12/08,Voodoo Boys,CryptCreds,-1082.26,Corporate Espionage Fee
+2075/12/26,Maelstrom,Eurodollars,-1422.26,Hacker Services Payment
+2075/12/25,Arasaka,CryptCreds,-9917.35,Data Transaction
+2076/05/02,Arasaka,Eurodollars,-9155.66,AI Software Upgrade
+2077/05/06,Biotechnica,CryptCreds,3832.18,Credits Load
+2076/06/13,Arasaka,Eurodollars,6965.92,Corporate Espionage Fee
+2077/01/31,Maelstrom,Eurodollars,134.89,Cyberware Maintenance
+2076/07/26,Biotechnica,CryptCreds,8929.88,Cyber Services Payment
+2076/09/04,Kang Tao,CryptCreds,-4585.67,Netrunner Contract
+2077/11/22,Voodoo Boys,CryptCreds,-6338.01,AI Software Upgrade
+2077/02/07,The Mox,Eurodollars,3398.08,Hacker Services Payment
+2077/10/31,Voodoo Boys,CryptCreds,-1529.92,Data Transaction
+2077/09/14,Biotechnica,CryptCreds,-8051.64,Black Market Deal
+2075/12/26,Trauma Team,Eurodollars,-1012.65,Biotech Investment
+2077/09/12,Militech,Eurodollars,-6401.53,Underground Tech Trade
+2077/06/28,The Mox,Eurodollars,1464.38,Cyber Services Payment
+2077/05/22,Tyger Claws,Eurodollars,1215.3,Corporate Espionage Fee
+2077/03/10,Voodoo Boys,CryptCreds,4124.43,Information Sale
+2077/04/17,Arasaka,CryptCreds,2908.29,Black Market Deal
+2076/12/13,Voodoo Boys,Eurodollars,-2003.5,Add Mission Target
+2077/05/31,Militech,Eurodollars,-2876.18,Biotech Investment
+2077/04/08,Night Corp,CryptCreds,-8247.73,Data Transaction
+2077/10/26,Maelstrom,CryptCreds,-2129.35,Netrunner Contract
+2076/11/15,Arasaka,Eurodollars,7481.13,Add Mission Target
+2077/04/05,Arasaka,CryptCreds,-7849.48,Information Sale
+2076/10/28,Kang Tao,CryptCreds,7069.9,AI Software Upgrade
+2076/09/09,Arasaka,Eurodollars,-8632.19,EDDIES Deposit
+2077/10/01,Night Corp,Eurodollars,-1291.29,Corporate Espionage Fee
+2077/01/15,Kang Tao,CryptCreds,-2483.55,AI Software Upgrade
+2076/04/11,Arasaka,Eurodollars,-8197.85,Advanced Tech Purchase
+2076/05/04,Biotechnica,CryptCreds,-7252.34,AI Software Upgrade
+2076/09/11,Night Corp,Eurodollars,-7510.58,EDDIES Deposit

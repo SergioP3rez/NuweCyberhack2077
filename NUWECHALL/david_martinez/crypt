@@ -1,0 +1,50 @@
+def crypt1(character, shift):
+    if character.isupper():
+        return chr((ord(character) + shift - 65) % 26 + 65)
+    elif character.islower():
+        return chr((ord(character) + shift - 97) % 26 + 97)
+    return character
+
+def crypt2_and_crypt1(text, crypted2, crypted1):
+    result = ""
+    for char in text:
+        if char.isalpha():
+            crypted = ord(char) + crypted2
+            if char.islower():
+                if crypted > ord('z'):
+                    crypted -= 26
+                elif crypted < ord('a'):
+                    crypted += 26
+            elif char.isupper():
+                if crypted > ord('Z'):
+                    crypted -= 26
+                elif crypted < ord('A'):
+                    crypted += 26
+
+            ciphered_char = crypt1(chr(crypted), crypted1)
+            result += ciphered_char
+        else:
+            result += char
+    return result
+
+def encrypt_file(file_path, crypted2, crypted1):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+
+        encrypted_content = crypt2_and_crypt1(content, crypted2, crypted1)
+
+        with open(file_path + '.encrypted', 'w', encoding='utf-8') as encrypted_file:
+            encrypted_file.write(encrypted_content)
+
+        print("File encrypted successfully.")
+    except FileNotFoundError:
+        print("File not found.")
+    except Exception as e:
+        print("An error occurred:", e)
+
+file_path = 'farewell'
+crypted2 =  2077 # Fake number, the real number is between 1-5
+crypted1 =  2077 # Fake number, the real number is between 1-5
+encrypt_file(file_path, crypted2, crypted1)
+

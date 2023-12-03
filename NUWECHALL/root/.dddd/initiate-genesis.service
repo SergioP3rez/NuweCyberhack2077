@@ -1,0 +1,16 @@
+[Unit]
+Description=Firing up main interfaces for connection
+Requires=docker.service
+After=docker.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+ExecStartPre=/bin/chmod +x /root/.dddd/init-localstack.sh
+ExecStart=/usr/bin/docker-compose -f /root/.dddd/docker-compose.yml up -d
+ExecStartPost=/bin/bash /root/.dddd/init-localstack.sh
+ExecStop=/usr/bin/docker-compose -f /root/.dddd/docker-compose.yml down
+WorkingDirectory=/root/.dddd
+
+[Install]
+WantedBy=multi-user.target
