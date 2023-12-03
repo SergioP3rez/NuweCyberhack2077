@@ -30,8 +30,3 @@ for o in op:
 			break
 	if catched:
 		break
-			
-r.sendline("net_debug -c cat intercepted.wav | base64")
-fichero=r.recvuntil(">>")
-print(fichero.strip())				
-			
